@@ -121,11 +121,11 @@ Sales-Performance-Dashboard
 
 ### Product Analysis
 
-![Dashboard 2](Images/dashboard2.png)
+![Dashboard 2](Dashboard/2.png)
 
 ### Customer & Regional Analysis
 
-![Dashboard 3](Images/dashboard3.png)
+![Dashboard 3](Dashboard/3.png)
 
 ---
 
