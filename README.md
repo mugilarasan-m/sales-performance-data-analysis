@@ -117,7 +117,7 @@ Sales-Performance-Dashboard
 
 ### Sales Overview
 
-![Dashboard 1](Images/dashboard1.png)
+![Dashboard 1](Dashboard/1.png)
 
 ### Product Analysis
 
