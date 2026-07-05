@@ -59,7 +59,7 @@ This is a Power BI dashboard I built using the Superstore dataset from Kaggle to
 
 ### Sales Overview
 
-![Overview](images/dashboard1.png)
+![Overview](1.png)
 
 ### Product Analysis
 
