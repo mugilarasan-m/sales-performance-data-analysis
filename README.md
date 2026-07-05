@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
 A data analytics project built using **Python, SQL, and Power BI** to analyze the Superstore dataset. The project covers data cleaning, SQL analysis, and dashboard development to identify sales trends, profitability, customer behavior, and regional performance.
 
